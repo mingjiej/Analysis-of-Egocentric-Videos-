@@ -1,10 +1,3 @@
-/*
- * Copyright 2013 Alibaba.com All right reserved. This software is the
- * confidential and proprietary information of Alibaba.com ("Confidential
- * Information"). You shall not disclose such Confidential Information and shall
- * use it only in accordance with the terms of the license agreement you entered
- * into with Alibaba.com.
- */
 
 
 import java.awt.Graphics2D;
@@ -14,7 +7,7 @@ import java.awt.image.BufferedImage;
 /**
  * 类RenderImage.java的实现描述：TODO 类实现描述
  * 
- * @author axman 2013-6-27 上午10:09:16
+ *
  */
 public class RenderImage {
 

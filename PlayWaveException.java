@@ -1,7 +1,7 @@
 //package org.wikijava.sound.playWave;
 
 /**
- * @author Giulio
+ *
  */
 public class PlayWaveException extends Exception {
 

@@ -1,10 +1,3 @@
-/*
- * Copyright 2013 Alibaba.com All right reserved. This software is the
- * confidential and proprietary information of Alibaba.com ("Confidential
- * Information"). You shall not disclose such Confidential Information and shall
- * use it only in accordance with the terms of the license agreement you entered
- * into with Alibaba.com.
- */
 
 
 import java.util.ArrayList;
@@ -13,7 +6,7 @@ import java.util.List;
 /**
  * 类SIFT.java的实现描述：面向用户的主操作接口
  * 
- * @author axman 2013-6-28 上午10:15:45
+ *
  */
 public class SIFT {
 

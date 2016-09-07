@@ -1,10 +1,4 @@
-/*
- * Copyright 2013 Alibaba.com All right reserved. This software is the
- * confidential and proprietary information of Alibaba.com ("Confidential
- * Information"). You shall not disclose such Confidential Information and shall
- * use it only in accordance with the terms of the license agreement you entered
- * into with Alibaba.com.
- */
+
 
 
 import java.util.ArrayList;
@@ -14,7 +8,7 @@ import java.util.ArrayList;
 /**
  * 类Octave.java的实现描述：表示8度金字塔中的一个8度空间，即以尺寸为坐标的某一尺寸上的那个8度空间
  * 
- * @author axman 2013-6-27 上午11:30:08
+ *
  */
 public class OctaveSpace {
 

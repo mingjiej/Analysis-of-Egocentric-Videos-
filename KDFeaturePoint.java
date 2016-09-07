@@ -1,16 +1,9 @@
-/*
- * Copyright 2013 Alibaba.com All right reserved. This software is the
- * confidential and proprietary information of Alibaba.com ("Confidential
- * Information"). You shall not disclose such Confidential Information and shall
- * use it only in accordance with the terms of the license agreement you entered
- * into with Alibaba.com.
- */
 
 
 /**
  * 类KDFeaturePoint.java的实现描述：该类主要将FeaturePoint的feature修改为整数以便在KDTree上查找
  * 
- * @author axman 2013-7-1 下午2:44:35
+ *
  */
 public class KDFeaturePoint extends IKDTreeDomain implements Cloneable {
 

@@ -1,11 +1,3 @@
-/*
- * Copyright 2013 Alibaba.com All right reserved. This software is the
- * confidential and proprietary information of Alibaba.com ("Confidential
- * Information"). You shall not disclose such Confidential Information and shall
- * use it only in accordance with the terms of the license agreement you entered
- * into with Alibaba.com.
- */
-
 
 import java.util.HashMap;
 import java.util.Map;
@@ -15,7 +7,7 @@ import org.apache.log4j.Logger;
 /**
  * 类GaussiianArray.java的实现描述：高斯模糊的主算法
  * 
- * @author axman 2013-6-27 下午4:33:27
+ *
  */
 public class GaussianArray {
 

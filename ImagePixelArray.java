@@ -1,16 +1,10 @@
-/*
- * Copyright 2013 Alibaba.com All right reserved. This software is the
- * confidential and proprietary information of Alibaba.com ("Confidential
- * Information"). You shall not disclose such Confidential Information and shall
- * use it only in accordance with the terms of the license agreement you entered
- * into with Alibaba.com.
- */
+
 
 
 /**
  * 类PixelfloatArray.java的实现描述：用于存储图象象素的一维数组，按行依次存储
  * 
- * @author axman 2013-6-27 上午9:26:11
+ *
  */
 public class ImagePixelArray extends FloatArray {
 
